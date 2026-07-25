@@ -1,4 +1,4 @@
-# Mobile Money Fraud Detection — Kenya Fintech Context
+# Mobile Money Fraud Detection (Kenya Fintech Context)
 
 A statistical and machine learning analysis of mobile money transactions to identify fraud patterns, using a dataset modeled on mobile money systems like M-Pesa.
 
